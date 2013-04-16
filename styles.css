@@ -1,0 +1,27 @@
+body {
+    background: #46483e;
+    color: #eee;
+    font-size: 12px;
+    line-height: 180%;
+    font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Verdana, Tahoma, sans-serif;
+    margin: 0;
+    padding-top: 40px;
+    width: 775px;
+    margin: 0 auto;
+    text-align: center;
+    color: #d2d8ba;
+}
+
+a {
+    color: #690;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+h1 {
+    font-size: 18px;
+    font-weight: normal;
+}
